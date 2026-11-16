@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="510" viewBox="0 0 1440 510" role="img" aria-label="Kishalan Sasikumar — Software Engineering, Web and Mobile Development">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111F"/><stop offset=".55" stop-color="#0F1330"/><stop offset="1" stop-color="#1A1041"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3FDBFF"/><stop offset=".46" stop-color="#6873FF"/><stop offset="1" stop-color="#C16DFF"/></linearGradient>
+ <linearGradient id="cubeTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#80E0FF"/><stop offset="1" stop-color="#8167FF"/></linearGradient>
+ <linearGradient id="cubeLeft" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#337FF0"/><stop offset="1" stop-color="#182C82"/></linearGradient>
+ <linearGradient id="cubeRight" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#684DED"/><stop offset="1" stop-color="#3B1C7C"/></linearGradient>
+ <radialGradient id="purpleGlow"><stop stop-color="#783BFA" stop-opacity=".42"/><stop offset="1" stop-color="#783BFA" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blueGlow"><stop stop-color="#158EFF" stop-opacity=".30"/><stop offset="1" stop-color="#158EFF" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#A7ABFF" stroke-opacity=".09" stroke-width=".7"/></pattern>
+ <clipPath id="clip"><rect x="1.5" y="1.5" width="1437" height="507" rx="27"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1440" height="510" fill="url(#bg)"/>
+<rect width="1440" height="510" fill="url(#grid)"/>
+<ellipse cx="1165" cy="160" rx="460" ry="420" fill="url(#purpleGlow)"/>
+<ellipse cx="100" cy="450" rx="420" ry="310" fill="url(#blueGlow)"/>
+<circle cx="1124" cy="252" r="1.5" fill="#9D70FF" opacity="0.27"/><circle cx="1161" cy="378" r="1.5" fill="#6C85FF" opacity="0.52"/><circle cx="564" cy="236" r="2" fill="#9D70FF" opacity="0.49"/><circle cx="705" cy="367" r="2" fill="#6C85FF" opacity="0.55"/><circle cx="182" cy="111" r="1" fill="#6C85FF" opacity="0.50"/><circle cx="1146" cy="326" r="1" fill="#9D70FF" opacity="0.37"/><circle cx="1363" cy="75" r="1.5" fill="#9D70FF" opacity="0.18"/><circle cx="1025" cy="367" r="1" fill="#46D7FE" opacity="0.47"/><circle cx="1091" cy="212" r="1" fill="#9D70FF" opacity="0.30"/><circle cx="160" cy="425" r="1.5" fill="#6C85FF" opacity="0.53"/><circle cx="822" cy="336" r="1" fill="#9D70FF" opacity="0.25"/><circle cx="1195" cy="149" r="1" fill="#46D7FE" opacity="0.53"/><circle cx="174" cy="176" r="1" fill="#9D70FF" opacity="0.23"/><circle cx="1291" cy="464" r="1" fill="#9D70FF" opacity="0.41"/><circle cx="767" cy="203" r="1" fill="#9D70FF" opacity="0.19"/><circle cx="1232" cy="336" r="1.5" fill="#9D70FF" opacity="0.15"/><circle cx="767" cy="49" r="2" fill="#46D7FE" opacity="0.26"/><circle cx="1351" cy="67" r="1" fill="#9D70FF" opacity="0.25"/><circle cx="1048" cy="50" r="1" fill="#9D70FF" opacity="0.34"/><circle cx="1263" cy="458" r="2" fill="#6C85FF" opacity="0.23"/><circle cx="569" cy="117" r="1" fill="#6C85FF" opacity="0.17"/><circle cx="1154" cy="196" r="1.5" fill="#9D70FF" opacity="0.17"/><circle cx="913" cy="87" r="1.5" fill="#9D70FF" opacity="0.41"/><circle cx="881" cy="285" r="1" fill="#46D7FE" opacity="0.18"/><circle cx="1358" cy="163" r="1" fill="#46D7FE" opacity="0.53"/><circle cx="1234" cy="123" r="1.5" fill="#6C85FF" opacity="0.44"/><circle cx="1051" cy="340" r="2" fill="#9D70FF" opacity="0.24"/><circle cx="890" cy="304" r="2" fill="#6C85FF" opacity="0.54"/><circle cx="502" cy="157" r="2" fill="#9D70FF" opacity="0.48"/><circle cx="800" cy="346" r="1" fill="#46D7FE" opacity="0.38"/><circle cx="1118" cy="256" r="1" fill="#9D70FF" opacity="0.54"/><circle cx="401" cy="324" r="1" fill="#46D7FE" opacity="0.28"/><circle cx="407" cy="426" r="1" fill="#9D70FF" opacity="0.32"/><circle cx="974" cy="342" r="1" fill="#46D7FE" opacity="0.19"/><circle cx="76" cy="138" r="1" fill="#9D70FF" opacity="0.34"/><circle cx="1087" cy="110" r="2" fill="#9D70FF" opacity="0.15"/><circle cx="594" cy="134" r="1" fill="#9D70FF" opacity="0.28"/><circle cx="728" cy="148" r="1" fill="#9D70FF" opacity="0.19"/><circle cx="86" cy="54" r="1" fill="#9D70FF" opacity="0.43"/><circle cx="672" cy="353" r="1" fill="#6C85FF" opacity="0.46"/><circle cx="108" cy="273" r="1" fill="#46D7FE" opacity="0.16"/><circle cx="874" cy="446" r="1" fill="#9D70FF" opacity="0.53"/><circle cx="1159" cy="70" r="1" fill="#46D7FE" opacity="0.25"/><circle cx="785" cy="217" r="2" fill="#9D70FF" opacity="0.52"/><circle cx="1131" cy="424" r="1.5" fill="#6C85FF" opacity="0.45"/><circle cx="123" cy="360" r="1.5" fill="#9D70FF" opacity="0.28"/><circle cx="739" cy="105" r="1" fill="#9D70FF" opacity="0.48"/><circle cx="961" cy="103" r="1.5" fill="#6C85FF" opacity="0.18"/>
+<path d="M45 115V45H115" fill="none" stroke="#2BCDFB" stroke-width="2.5"/>
+<path d="M1326 45H1395V115" fill="none" stroke="#AB72FF" stroke-width="2.5"/>
+<path d="M45 397V465H115" fill="none" stroke="#2BCDFB" stroke-width="2.5"/>
+<path d="M1326 465H1395V397" fill="none" stroke="#AB72FF" stroke-width="2.5"/>
+<rect x="80" y="64" width="14" height="14" rx="4" fill="#4BCFFF"/>
+<text x="107" y="77" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3.7" fill="#A9C8FF">ENGINEER  /  DESIGNER  /  BUILDER</text>
+<text x="77" y="201" font-family="Segoe UI, Arial, sans-serif" font-size="89" font-weight="800" letter-spacing="-1.6" fill="#F4F6FF">Kishalan</text>
+<text x="77" y="295" font-family="Segoe UI, Arial, sans-serif" font-size="89" font-weight="800" letter-spacing="-1.6" fill="url(#neon)">Sasikumar</text>
+<rect x="80" y="327" width="617" height="1" fill="url(#neon)" opacity=".55"/>
+<text x="80" y="363" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing=".5" fill="#E8EBFF">SOFTWARE ENGINEERING  ·  WEB &amp; MOBILE</text>
+<text x="80" y="402" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing=".5" fill="#A6B6E0">BSc (Hons) Computing Science in Software Engineering</text>
+<text x="80" y="433" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing=".9" fill="#AD87FF">TOP-UP  ·  KINGSTON UNIVERSITY (UK)</text>
+<!-- right art: orbital technical object -->
+<ellipse cx="1110" cy="235" rx="233" ry="80" transform="rotate(-19 1110 235)" stroke="#66ADFF" stroke-opacity=".42" fill="none" stroke-width="1.4"/>
+<ellipse cx="1110" cy="235" rx="217" ry="88" transform="rotate(24 1110 235)" stroke="#B975FF" stroke-opacity=".35" fill="none" stroke-width="1.3"/>
+<circle cx="1327" cy="181" r="6" fill="#B884FF"/>
+<circle cx="894" cy="213" r="4" fill="#45D6FF"/>
+<path d="M1110 110L1230 179L1110 248L990 179Z" fill="url(#cubeTop)" stroke="#A6E8FF" stroke-width="1.5"/>
+<path d="M990 179L1110 248V386L990 317Z" fill="url(#cubeLeft)" stroke="#68D4FF" stroke-opacity=".8" stroke-width="1"/>
+<path d="M1110 248L1230 179V317L1110 386Z" fill="url(#cubeRight)" stroke="#B792FF" stroke-opacity=".85" stroke-width="1"/>
+<path d="M1110 248V386" stroke="#BFD4FF" stroke-opacity=".6"/>
+<text x="1110" y="204" text-anchor="middle" font-family="Consolas, monospace" font-size="49" font-weight="700" fill="#08285C">&lt;/&gt;</text>
+<text x="1050" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800" fill="#EAF9FF">DEV</text>
+<text x="1170" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="800" fill="#F6E8FF">UX</text>
+<rect x="933" y="401" width="353" height="47" rx="12" fill="#0A1730" fill-opacity=".92" stroke="#8171E3" stroke-opacity=".64"/>
+<circle cx="955" cy="423" r="4" fill="#38CEFC"/><circle cx="971" cy="423" r="4" fill="#8F6DFF"/><circle cx="987" cy="423" r="4" fill="#C078FF"/>
+<text x="1010" y="428" font-family="Consolas, monospace" font-size="17" fill="#C4D4FF">build()</text>
+<text x="1099" y="428" font-family="Consolas, monospace" font-size="17" fill="#66D9F8">  → </text>
+<text x="1140" y="428" font-family="Consolas, monospace" font-size="17" fill="#D9BDFF">ship();</text>
+</g>
+<rect x="1.5" y="1.5" width="1437" height="507" rx="27" fill="none" stroke="url(#neon)" stroke-opacity=".72" stroke-width="2"/>
+</svg>

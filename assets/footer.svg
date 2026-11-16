@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="105" viewBox="0 0 1200 105" role="img" aria-label="Kishalan Sasikumar: Building useful software, one thoughtful detail at a time">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0B1834"/><stop offset=".52" stop-color="#161345"/><stop offset="1" stop-color="#27134B"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#32CFFF"/><stop offset=".6" stop-color="#7672FF"/><stop offset="1" stop-color="#BD6CFF"/></linearGradient></defs>
+<rect width="1200" height="105" rx="20" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="103" rx="19" fill="none" stroke="url(#edge)" stroke-opacity=".6" stroke-width="2"/>
+<circle cx="55" cy="52" r="6" fill="#54D2FF"/><text x="78" y="59" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" fill="#EEF2FF">Building useful software, one thoughtful detail at a time.</text>
+<text x="1150" y="59" text-anchor="end" font-family="Consolas, monospace" font-size="18" fill="#B993FF">KISHALAN  /  DEV</text></svg>

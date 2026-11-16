@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="295" viewBox="0 0 1200 295" role="img" aria-label="Technology stack: React Native, TypeScript, Expo, React, PHP, MySQL, SQLite, Figma">
+<defs>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B142C"/><stop offset="1" stop-color="#1B1040"/></linearGradient>
+ <linearGradient id="border" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#6366F1"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+ <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172847"/><stop offset="1" stop-color="#241A4B"/></linearGradient>
+</defs>
+<rect width="1200" height="295" rx="24" fill="url(#panel)"/>
+<rect x="1" y="1" width="1198" height="293" rx="23" fill="none" stroke="url(#border)" stroke-opacity=".5" stroke-width="2"/>
+<text x="43" y="55" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="3" font-size="18" fill="#90A6D4">MY ENGINEERING TOOLKIT</text>
+<rect x="43" y="72" width="1114" height="1" fill="#64709D" opacity=".35"/>
+<rect x="43" y="98" width="269" height="75" rx="14" fill="url(#tile)" stroke="#7787C0" stroke-opacity=".20"/>
+    <rect x="56" y="110" width="51" height="51" rx="12" fill="#66D5FF" fill-opacity=".12" stroke="#66D5FF" stroke-opacity=".55"/>
+    <text x="81" y="142" text-anchor="middle" font-family="Consolas, monospace" font-weight="800" font-size="20" fill="#66D5FF">RN</text>
+    <text x="120" y="142" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing=".3" font-size="17" fill="#F1F3FF">REACT NATIVE</text><rect x="324" y="98" width="269" height="75" rx="14" fill="url(#tile)" stroke="#7787C0" stroke-opacity=".20"/>
+    <rect x="337" y="110" width="51" height="51" rx="12" fill="#7AA6FF" fill-opacity=".12" stroke="#7AA6FF" stroke-opacity=".55"/>
+    <text x="362" y="142" text-anchor="middle" font-family="Consolas, monospace" font-weight="800" font-size="20" fill="#7AA6FF">TS</text>
+    <text x="401" y="142" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing=".3" font-size="17" fill="#F1F3FF">TYPESCRIPT</text><rect x="605" y="98" width="269" height="75" rx="14" fill="url(#tile)" stroke="#7787C0" stroke-opacity=".20"/>
+    <rect x="618" y="110" width="51" height="51" rx="12" fill="#E9E8FF" fill-opacity=".12" stroke="#E9E8FF" stroke-opacity=".55"/>
+    <text x="643" y="142" text-anchor="middle" font-family="Consolas, monospace" font-weight="800" font-size="20" fill="#E9E8FF">EX</text>
+    <text x="682" y="142" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing=".3" font-size="17" fill="#F1F3FF">EXPO</text><rect x="886" y="98" width="269" height="75" rx="14" fill="url(#tile)" stroke="#7787C0" stroke-opacity=".20"/>
+    <rect x="899" y="110" width="51" height="51" rx="12" fill="#62D8F2" fill-opacity=".12" stroke="#62D8F2" stroke-opacity=".55"/>
+    <text x="924" y="142" text-anchor="middle" font-family="Consolas, monospace" font-weight="800" font-size="20" fill="#62D8F2">R</text>
+    <text x="963" y="142" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing=".3" font-size="17" fill="#F1F3FF">REACT</text><rect x="43" y="185" width="269" height="75" rx="14" fill="url(#tile)" stroke="#7787C0" stroke-opacity=".20"/>
+    <rect x="56" y="197" width="51" height="51" rx="12" fill="#B7A5FF" fill-opacity=".12" stroke="#B7A5FF" stroke-opacity=".55"/>
+    <text x="81" y="229" text-anchor="middle" font-family="Consolas, monospace" font-weight="800" font-size="16" fill="#B7A5FF">PHP</text>
+    <text x="120" y="229" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing=".3" font-size="17" fill="#F1F3FF">PHP</text><rect x="324" y="185" width="269" height="75" rx="14" fill="url(#tile)" stroke="#7787C0" stroke-opacity=".20"/>
+    <rect x="337" y="197" width="51" height="51" rx="12" fill="#57C2F8" fill-opacity=".12" stroke="#57C2F8" stroke-opacity=".55"/>
+    <text x="362" y="229" text-anchor="middle" font-family="Consolas, monospace" font-weight="800" font-size="16" fill="#57C2F8">SQL</text>
+    <text x="401" y="229" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing=".3" font-size="17" fill="#F1F3FF">MYSQL</text><rect x="605" y="185" width="269" height="75" rx="14" fill="url(#tile)" stroke="#7787C0" stroke-opacity=".20"/>
+    <rect x="618" y="197" width="51" height="51" rx="12" fill="#80B4FF" fill-opacity=".12" stroke="#80B4FF" stroke-opacity=".55"/>
+    <text x="643" y="229" text-anchor="middle" font-family="Consolas, monospace" font-weight="800" font-size="20" fill="#80B4FF">DB</text>
+    <text x="682" y="229" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing=".3" font-size="17" fill="#F1F3FF">SQLITE</text><rect x="886" y="185" width="269" height="75" rx="14" fill="url(#tile)" stroke="#7787C0" stroke-opacity=".20"/>
+    <rect x="899" y="197" width="51" height="51" rx="12" fill="#D7A0FF" fill-opacity=".12" stroke="#D7A0FF" stroke-opacity=".55"/>
+    <text x="924" y="229" text-anchor="middle" font-family="Consolas, monospace" font-weight="800" font-size="20" fill="#D7A0FF">F</text>
+    <text x="963" y="229" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing=".3" font-size="17" fill="#F1F3FF">FIGMA</text></svg>
